@@ -1,6 +1,8 @@
 # learning-notebook
 This repo is a collection of personal learning notes taken from books, courses and conferences, as well as some "knowledge share" presentations I've run.
 
+Note: the format of the notes reflects the format of note-taking I was using at the time I made them. Some don't render natively in github currently, and need to be downloaded to be read
+
 ## contents
 
 ### Non-technical books
@@ -17,5 +19,5 @@ Mostly aimed at junior developers, mostly designed to fit in in one hour includi
 
 ### Conferences and courses
 Messier notes taken in real-time, but still useful to reference occassionally. 
-* [Women in Tech Conference]:(https://github.com/Nealel/learning-notebook/blob/main/Women%20in%20tech%20conference%20notes.pdf)
-* [Delegation training]:(https://github.com/Nealel/learning-notebook/blob/main/delegation%20training.pdf)
+* [Women in Tech Conference](https://github.com/Nealel/learning-notebook/blob/main/Women%20in%20tech%20conference%20notes.pdf)
+* [Delegation training](https://github.com/Nealel/learning-notebook/blob/main/delegation%20training.pdf)
