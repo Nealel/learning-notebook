@@ -6,6 +6,7 @@ Note: the format of the notes reflects the format of note-taking I was using at 
 ## contents
 
 ### Non-technical books
+"Soft" skills for managers, but still very relevant for individual contributors 
 * [Crucial Conversations](https://github.com/Nealel/learning-notebook/blob/main/Crucial%20conversations%20book.pdf): amazing guide for navigating tough conversations successfully
 * [Essentialism](https://github.com/Nealel/learning-notebook/blob/main/Essentialism%20book.pdf): how to focus on what really matters
 * [Resillient Management](https://github.com/Nealel/learning-notebook/blob/main/Resilient%20Management%20book.pdf): great guide for first-time managers
