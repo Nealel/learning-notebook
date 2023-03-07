@@ -27,7 +27,7 @@ Messier notes taken in real-time, but still useful to reference occassionally.
 ## Recommended Online Reading and Resources
 A collection of things I've found helpful, and saved for future reference or to recommend to thers
 
-**For junior devs
+### For junior devs
 * https://learngitbranching.js.org/ -- interactive into to git
 * https://git-scm.com/book/en/v2 -- intro to git online book, must-read for juniors (chapters 2, 3 and some of 7)
 * https://regexcrossword.com/ -- fun way to learn regex, recommend to juniors
@@ -45,7 +45,7 @@ A collection of things I've found helpful, and saved for future reference or to 
 * Head-first design patterns
 * Effective java (a bit more intermediate)
 
-**For all levels
+### For all levels
 * https://github.com/jlevy/the-art-of-command-line -- very thorough and practical guide to command line, recommended for all levels. Read a bit at a time.
 * https://twitter.com/wes_kao/status/1505559811785646086?lang=en -- managing up, how to help your manager do their job
 * https://dn.ht/intermediate-vim/ -- more on vim
@@ -56,12 +56,12 @@ A collection of things I've found helpful, and saved for future reference or to 
 * https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 * https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html
 
-For everyone
+### For everyone
 * https://www.coursera.org/learn/the-science-of-well-being -- lecture series on wellbeing
 * https://www.harleytherapy.co.uk/cognitive-distortions-cbt.htm -- common thinking errors that lead to unhelpful emotions and behaviour, a CBT quick reference
 * https://dkb.show/post/life-is-not-short -- valuing your time and prioritizing what matters
 
-For managers
+### For managers
 * https://larahogan.me/blog/manager-handoffs/ -- good format for changing managers
 * https://www.palomamedina.com/biceps -- great resource for figuring out the cause of burnout, disengagement, frustration, low motivation
 * https://hiringengineersbook.com/post/trouble-hiring/ and https://hiringengineersbook.com/post/why-your-job-description-fails-to-attract-senior-engineers/ -- attracting senior engineers
