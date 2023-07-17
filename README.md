@@ -61,6 +61,8 @@ A collection of things I've found helpful, and saved for future reference or to 
 * https://www.coursera.org/learn/the-science-of-well-being -- lecture series on wellbeing
 * https://www.harleytherapy.co.uk/cognitive-distortions-cbt.htm -- common thinking errors that lead to unhelpful emotions and behaviour, a CBT quick reference
 * https://dkb.show/post/life-is-not-short -- valuing your time and prioritizing what matters
+* https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems -- reframing your hard-to-tackle problems to get a fresh perspective
+* 
 
 ### For managers
 * https://larahogan.me/blog/manager-handoffs/ -- good format for changing managers
@@ -69,6 +71,7 @@ A collection of things I've found helpful, and saved for future reference or to 
 * https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623 -- hiring more engineers won’t fix your bugs and tech debt, because engineers are what generates bugs and tech debt
 * https://wherewithall.com/resources/20-Great-Open-Questions.pdf -- reframing questions as open questions
 * https://www.kotterinc.com/wp-content/uploads/2019/04/8-Steps-eBook-Kotter-2018.pdf practical 8-step process for leading change
+* https://hbr.org/2016/07/why-diversity-programs-fail -- a scientific look at what works and what doesn't for diversity programs
 * https://hbr.org/2016/04/how-to-take-the-bias-out-of-interviews?utm_campaign=harvardbiz&utm_source=twitter&utm_medium=social -- best guide to unbiased interviews I’ve seen, worth a read no matter how many anti-bias training courses you’ve done
 * https://www.patkua.com/blog/5-engineering-manager-archetypes/ -- different types of eng leads
 * https://www.usenix.org/conference/srecon16europe/program/presentation/macnamara -- documentation culture
